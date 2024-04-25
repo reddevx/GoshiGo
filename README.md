@@ -1,8 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/reddevx/GoshiGo/main/GOSHI_GO.png">
 
-# Goshi Go
-
 O Goshi GO é um projeto em desenvolvimento que visa a catalogação de fotos e informações de animais exóticos avistados. 
 
  Este aplicativo serve como uma plataforma de armazenamento dedicada à preservação do conhecimento sobre essas espécies raras, oferecendo uma maneira organizada e acessível para os entusiastas e especialistas compartilharem e explorarem avistamentos e informações relevantes.
