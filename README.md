@@ -7,9 +7,12 @@ O Goshi GO é um projeto em desenvolvimento que visa a catalogação de fotos e 
 
 
 ## Screenshots
-<div><center>
+
+<center>
+ 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-</div></center>
+
+</center>
 
 ## Instalação
 
