@@ -6,7 +6,7 @@ O Goshi GO é um projeto em desenvolvimento que visa a catalogação de fotos e 
  Este aplicativo serve como uma plataforma de armazenamento dedicada à preservação do conhecimento sobre essas espécies raras, oferecendo uma maneira organizada e acessível para os entusiastas e especialistas compartilharem e explorarem avistamentos e informações relevantes.
 
 
-## Screenshots
+## Imagens
 
 <center>
 
