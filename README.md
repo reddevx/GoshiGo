@@ -1,5 +1,5 @@
 
-<img src="[https://raw.githubusercontent.com/reddevx/GoshiGo/main/goshi-go.png](https://raw.githubusercontent.com/reddevx/GoshiGo/main/GOSHI_GO.png)">
+<img src="https://raw.githubusercontent.com/reddevx/GoshiGo/main/GOSHI_GO.png">
 
 # Goshi Go
 
