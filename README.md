@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/reddevx/GoshiGo/main/imagem/banner2.png">
+<img src="https://raw.githubusercontent.com/reddevx/PetBook/main/imagem/petbook.png">
 
 O Goshi GO é um projeto em desenvolvimento que visa a catalogação de fotos e informações de animais exóticos avistados. 
 
